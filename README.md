@@ -24,7 +24,6 @@ A customizable siren control system for FiveM servers that provides realistic em
 ## Dependencies
 
 - [ox_lib](https://github.com/overextended/ox_lib) (Required)
-- ESX or QBCore Framework (Optional - for job restrictions)
 
 ## Usage
 
