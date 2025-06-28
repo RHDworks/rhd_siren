@@ -38,11 +38,6 @@ A customizable siren control system for FiveM servers that provides realistic em
 - Ensure you're in an allowed vehicle
 - Verify keybinds are not conflicting with other resources
 
-### Synchronization issues
-- Make sure all players have the resource installed
-- Check server console for any errors
-- Ensure OneSync is enabled on your server
-
 ## Support
 
 - Discord: [Join our Discord](https://discord.gg/E94m9AUsCz)
